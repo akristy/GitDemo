@@ -1,0 +1,6 @@
+*.exe
+*.ilk
+*.suo
+*.pdb
+GitDemo.VC.db
+*.opendb
